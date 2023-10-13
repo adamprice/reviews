@@ -1,0 +1,35 @@
+{
+  "configurations" : [
+    {
+      "id" : "CABE500C-8ACB-4498-940F-EBAD8F2B1FCE",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:BusinessSearch.xcodeproj",
+      "identifier" : "A2ED87DC2AD1D8E200D31E5A",
+      "name" : "BusinessSearch"
+    }
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:BusinessSearch.xcodeproj",
+        "identifier" : "A2CB39632AD8B1C100119C39",
+        "name" : "BusinessSearchTests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:BusinessSearch.xcodeproj",
+        "identifier" : "A2CB39712AD9728100119C39",
+        "name" : "BusinessSearchUITests"
+      }
+    }
+  ],
+  "version" : 1
+}
